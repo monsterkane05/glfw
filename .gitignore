@@ -19,6 +19,9 @@ MinSizeRel
 RelWithDebInfo
 *.opensdf
 
+bin-int/
+bin/
+
 # Xcode clutter
 GLFW.build
 GLFW.xcodeproj
